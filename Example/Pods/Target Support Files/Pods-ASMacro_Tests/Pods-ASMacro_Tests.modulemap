@@ -1,0 +1,6 @@
+framework module Pods_ASMacro_Tests {
+  umbrella header "Pods-ASMacro_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_ASMacro_Example {
+  umbrella header "Pods-ASMacro_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

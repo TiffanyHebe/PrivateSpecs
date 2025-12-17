@@ -1,0 +1,22 @@
+{
+  "name": "ASMacro",
+  "version": "0.1.0",
+  "summary": "A short description of ASMacro.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TiffanyHebe/ASMacro",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TiffanyHebe": "lx4ever@163.com"
+  },
+  "source": {
+    "git": "https://github.com/TiffanyHebe/ASMacro.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ASMacro/Classes/**/*"
+}

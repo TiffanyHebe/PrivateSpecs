@@ -1,0 +1,6 @@
+framework module ASMacro {
+  umbrella header "ASMacro-umbrella.h"
+
+  export *
+  module * { export * }
+}

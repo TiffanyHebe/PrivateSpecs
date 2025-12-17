@@ -1,0 +1,27 @@
+PODS:
+  - ASMacro (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - ASMacro (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ASMacro:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASMacro: d2a3c10e7e3cefa6878351bf8caa7b96a6ffae69
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: e605542880b35b5c1c296a748bf055d755dffa2d
+
+COCOAPODS: 1.16.2
